@@ -1,0 +1,9 @@
+stage,users,stage_conversion,previous_stage_users,stage_to_stage_conversion,drop_off
+Homepage,2,1.0,,1.0,0.0
+Search,2,1.0,2.0,1.0,0.0
+Product View,2,1.0,2.0,1.0,0.0
+Add Cart,1,0.5,2.0,0.5,0.5
+Checkout,2,1.0,1.0,2.0,-1.0
+Shipping,2,1.0,2.0,1.0,0.0
+Payment,2,1.0,2.0,1.0,0.0
+Purchase,2,1.0,2.0,1.0,0.0
