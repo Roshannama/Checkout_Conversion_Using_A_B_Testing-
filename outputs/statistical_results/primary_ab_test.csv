@@ -1,0 +1,15 @@
+metric,value
+Control Users,60000.0
+Treatment Users,60000.0
+Control Conversions,16039.0
+Treatment Conversions,17477.0
+Control Conversion Rate,0.26731666666666665
+Treatment Conversion Rate,0.29128333333333334
+Absolute Uplift,0.02396666666666669
+Relative Uplift,0.089656462372966
+Z Statistic,9.252424163694384
+P Value,1.0972894490821698e-20
+CI Lower,0.018891559403213645
+CI Upper,0.029041773930119738
+Relative Risk,1.089656462372966
+Odds Ratio,1.1265053675041263
