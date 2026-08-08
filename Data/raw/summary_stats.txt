@@ -1,0 +1,14 @@
+
+SUMMARY STATISTICS
+===================
+Total Users: 120000
+Total Sessions: 659860
+Total Orders: 44176
+Conversion Rate (orders/sessions): 6.6948%
+Total Revenue: 25,791,907.06
+AOV (Average Order Value): 583.84
+ARPU (Revenue per User): 214.93
+Control Conversion: 6.3245%
+Treatment Conversion: 7.0663%
+Experiment Uplift: 11.73%
+Elapsed time: 61.6s

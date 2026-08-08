@@ -1,0 +1,24 @@
+[PASS] No duplicate user_id
+[PASS] No duplicate product_id
+[PASS] No duplicate session_id
+[PASS] No duplicate event_id
+[PASS] No duplicate order_id
+[PASS] No duplicate assignment_id
+[PASS] Every user has exactly one experiment assignment
+[PASS] All sessions reference existing users
+[PASS] All events reference existing sessions
+[PASS] All orders reference existing sessions
+[PASS] All orders reference existing products
+[PASS] All orders reference existing users
+[PASS] Session end > session start
+[PASS] No negative prices
+[PASS] No negative cost
+[PASS] No negative order totals
+[PASS] No negative revenue (unit_price)
+[PASS] No NaN in users required fields
+[PASS] No NaN in products required fields
+[PASS] No NaN in orders required fields
+[PASS] No infinite values in numeric session columns
+[PASS] No infinite values in numeric order columns
+[PASS] Every Purchase event has a matching order
+[PASS] Every order's session actually had a Purchase event
